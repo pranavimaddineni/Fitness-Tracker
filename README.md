@@ -1,2 +1,2 @@
-# Fitness Trcker
- 
+# Fitness Tracker using phyton
+Personal Fitness Tracker is a Python-based project that predicts calories burned based on user input, including age, gender, BMI, exercise duration, heart rate, and body temperature. It uses CSV datasets to compare user data with similar records and provides insights into fitness levels. Built with Python, Pandas, and Streamlit, this project offers a cost-effective and data-driven fitness tracking solution without requiring wearable devices.
